@@ -1,0 +1,21 @@
+{
+  "name": "rpid",
+  "version": "0.0.1",
+  "description": "Pid file reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/pid.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/active9/rpid"
+  },
+  "keywords": [
+    "pid",
+    "read",
+    "process",
+    "id"
+  ],
+  "author": "Active 9 LLC.",
+  "license": "MIT"
+}
